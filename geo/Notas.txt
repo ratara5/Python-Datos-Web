@@ -1,0 +1,10 @@
+07012022 Cada país añadido al dataWorld será un elemento de una lista
+entonces será precedido por una coma, a excepción de:
+***El primero, que estará precedido por {
+"type": "FeatureCollection",
+"name": "natalidad",
+"crs": { "type": "name", "properties": { "name": "code" } },
+"features": [
+***El último, que estará sucedido por ]}
+07012022 por hacer: indicar STEP 0 (OK), vaciar carpetas al iniciar, 
+modularizar
